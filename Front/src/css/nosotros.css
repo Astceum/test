@@ -1,0 +1,43 @@
+#nosotros .text-center {
+    color: white;
+    text-transform: uppercase;
+    font-size: 60px;
+    font-family: 'Roboto:wght@900', sans-serif;
+}
+
+#nosotros .columna {
+    padding: 10%;
+    display: grid;
+    align-items: center;
+}
+
+#nosotros .row {
+    align-items: center;
+}
+
+#nosotros .titulo {
+    color: rgb(111, 187, 189);
+    text-transform: uppercase;
+    margin-left: 5%;
+    font-family: 'roboto:wght@700', sans-serif;
+    font-size: 35px;
+
+}
+
+#nosotros .descripcion {
+    text-align: justify;
+    margin-top: 30px;
+    margin-left: 5%;
+    justify-content: center;
+    font-family: 'roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+#nosotros .imagen {
+    border-radius: 100%;
+    width: 100%;
+    align-items: center;
+    margin-bottom: 5%
+}
